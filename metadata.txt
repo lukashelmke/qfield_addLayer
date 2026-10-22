@@ -1,0 +1,7 @@
+[general]
+name=Neuer Layer
+description=Neue leere Punkt-, Linien- oder Polygonlayer (GeoPackage) direkt in QField anlegen – ohne Umweg über QGIS
+author=Lukas Helmke
+icon=icon.svg
+version=1.0
+homepage=https://github.com/lukashelmke/qfield-neuer-layer
